@@ -1,0 +1,36 @@
+# curl 'https://steamcommunity.com/market/myhistory'
+#  -H 'Connection: keep-alive'
+#  -H 'sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97"'
+#  -H 'DNT: 1'
+#  -H 'sec-ch-ua-mobile: ?0'
+#  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36'
+#  -H 'Accept: text/javascript, text/html, application/xml, text/xml, */*'
+#  -H 'X-Prototype-Version: 1.7'
+#  -H 'X-Requested-With: XMLHttpRequest'
+#  -H 'sec-ch-ua-platform: "Linux"'
+#  -H 'Sec-Fetch-Site: same-origin'
+#  -H 'Sec-Fetch-Mode: cors'
+#  -H 'Sec-Fetch-Dest: empty'
+#  -H 'Referer: https://steamcommunity.com/market/'
+#  -H 'Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7,it-IT;q=0.6,it;q=0.5'
+#  -H 'Cookie: ActListPageSize=10; timezoneOffset=3600,0; Steam_Language=english; browserid=2485420134705023495; _ga=GA1.2.1068917015.1638381087; steamCurrencyId=6; strInventoryLastContext=730_2; steamMachineAuth76561198804501548=7D0C036CC6F9CE0D97A4DA6DBB2AB18F1665B276; steamRememberLogin=76561198183864150%7C%7Cfff6ab99a47b91efec626c632debc0af; steamMachineAuth76561198183864150=3661EF7EF16D301F2A8B955143CE5481EEEDBA0F; _gid=GA1.2.859901321.1642856496; steamLoginSecure=76561198183864150%7C%7CCCBF4C5798AD0AC9DF763B95810AE4918C4B06A5; sessionid=79add19364c3fc2bf3ffc3ee; webTradeEligibility=%7B%22allowed%22%3A1%2C%22allowed_at_time%22%3A0%2C%22steamguard_required_days%22%3A15%2C%22new_device_cooldown_days%22%3A7%2C%22time_checked%22%3A1642932596%7D; tsTradeOffersLastRead=1642886416'
+#  --compressed
+GET https://steamcommunity.com/market/myhistory
+Connection: keep-alive
+sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97"
+DNT: 1
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
+Accept: text/javascript, text/html, application/xml, text/xml, */*
+X-Prototype-Version: 1.7
+X-Requested-With: XMLHttpRequest
+sec-ch-ua-platform: "Linux"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://steamcommunity.com/market/
+Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7,it-IT;q=0.6,it;q=0.5
+Cookie: ActListPageSize=10; timezoneOffset=3600,0; Steam_Language=english; browserid=2485420134705023495; _ga=GA1.2.1068917015.1638381087; steamCurrencyId=6; strInventoryLastContext=730_2; steamMachineAuth76561198804501548=7D0C036CC6F9CE0D97A4DA6DBB2AB18F1665B276; steamRememberLogin=76561198183864150%7C%7Cfff6ab99a47b91efec626c632debc0af; steamMachineAuth76561198183864150=3661EF7EF16D301F2A8B955143CE5481EEEDBA0F; _gid=GA1.2.859901321.1642856496; steamLoginSecure=76561198183864150%7C%7CCCBF4C5798AD0AC9DF763B95810AE4918C4B06A5; sessionid=79add19364c3fc2bf3ffc3ee; webTradeEligibility=%7B%22allowed%22%3A1%2C%22allowed_at_time%22%3A0%2C%22steamguard_required_days%22%3A15%2C%22new_device_cooldown_days%22%3A7%2C%22time_checked%22%3A1642932596%7D; tsTradeOffersLastRead=1642886416
+
+###
+
